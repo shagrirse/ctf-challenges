@@ -1,0 +1,5 @@
+{
+  "event_name": "event_name",
+  "domain_name": "example.com",
+  "hosted_zone_id": "123456QWERTYU",
+}

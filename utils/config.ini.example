@@ -1,0 +1,10 @@
+[CTF]
+categories = example-image-based-challenge,example-text-based-challenge
+
+[DOCKER]
+docker_hub_user =
+docker_hub_pass =
+base_repository_uri =
+
+[ECR]
+repo_name =
